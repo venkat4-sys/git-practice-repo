@@ -1,7 +1,11 @@
 This approach saves time and disk space by downloading
  only the specified branch rather than the entire 
+
+ repository.welcome to the data festival learning
+
  repository.Open the Source Control panel (Git icon in the left sidebar)
 
 Click the three dots (menu) in the Source Control panel
 
-Select "Fetch" to update remote branch information
+welcome to git tutorials
+
