@@ -1,0 +1,3 @@
+This approach saves time and disk space by downloading
+ only the specified branch rather than the entire 
+ repository.
